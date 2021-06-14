@@ -9,7 +9,7 @@
   <string name="nav_bar_user">Користувач</string>
   <string name="nav_bar_settings">Налаштування</string>
   <string name="home_popular">Популярне на цьому тижні</string>
-  <string name="home_recommended">Рекомендуем</string>
+  <string name="home_recommended">Рекомендуємо</string>
   <string name="pi_favorite">В улюбленому</string>
   <string name="pi_not_favorite">В улюблене</string>
   <string name="pi_rating">%1$s\u0020/\u0020%2$s</string>
@@ -18,7 +18,7 @@
   <string name="pi_status">Статус:</string>
   <string name="pi_last_update">Оновлено:</string>
   <string name="pi_tr_status">Переклад:</string>
-  <string name="pi_orig_story">Ориг. істория:</string>
+  <string name="pi_orig_story">Ориг. історія:</string>
   <string name="pi_orig_design">Ориг. дизайн:</string>
   <string name="pi_anime">Аніме:</string>
   <string name="pi_manga">Манґа:</string>
@@ -28,7 +28,7 @@
   <string name="pi_ss">Побічні історії:</string>
   <string name="pi_about">ОПИС</string>
   <string name="pi_volumes_list">ТОМА</string>
-  <string name="pi_updates">ОНОВЛЕНИЯ</string>
+  <string name="pi_updates">ОНОВЛЕННЯ</string>
   <string name="pi_submit_rating">ОЦІНИТИ</string>
   <string name="pi_submitted_rating">Ваша оцінка: %1$s</string>
   <string name="vi_type">Тип тому:</string>
@@ -38,7 +38,7 @@
   <string name="vi_illustrator">Іллюстратор:</string>
   <string name="vi_or_design">Ориг. дизайн:</string>
   <string name="vi_or_story">Ориг. істория:</string>
-  <string name="vi_isbn">ISBN:</string>
+  <string name="vi_isbn">ISBN:</stri+ng>
   <string name="vi_teams">Команда:</string>
   <string name="vi_download">СКАЧАТИ</string>
   <string name="vi_read">ЧИТАТИ</string>
@@ -57,7 +57,7 @@
   <string name="fb2">FB2</string>
   <string name="docx">DOCX</string>
   <string name="epub">EPUB</string>
-  <string name="dwn_illustrations">Іллюстрации:</string>
+  <string name="dwn_illustrations">Іллюстрації:</string>
   <string name="dwn_colorful">Кольорові</string>
   <string name="dwn_monochrome">Черно-білі</string>
   <string name="dwn_ok">Скачати</string>
@@ -109,22 +109,22 @@
     <item>Не оформлено</item>
     <item>Закінчено</item>
     <item>Ліцензировано</item>
-    <item>Приостановлен</item>
-    <item>В очереди</item>
+    <item>Призупинено</item>
+    <item>В черзі</item>
     <item>Скрыт</item>
-    <item>Сторонний перевод</item>
-    <item>Нет анлейта</item>
-    <item>Заморожен</item>
-    <item>Сторонний перевод</item>
-    <item>Онгоинг</item>
+    <item>Сторонній переклад</item>
+    <item>Немає анлейту</item>
+    <item>Заморожено</item>
+    <item>Сторонній переклад</item>
+    <item>Онгоїнг</item>
     <item>Перевод</item>
     <item>Редактура</item>
   </string-array>
   <string-array name="project_tr_status">
-    <item>Завершен</item>
-    <item>Лицензия</item>
-    <item>Активен</item>
-    <item>Онгоинг</item>
+    <item>Закічено</item>
+    <item>Ліцензія</item>
+    <item>Активно</item>
+    <item>Онгоїнг</item>
     <item>Заморожено</item>
   </string-array>
   <string-array name="project_issue_status">
@@ -138,7 +138,7 @@
     <item>Побічна історія</item>
     <item>Авторске додзінсі</item>
     <item>Веб-роман</item>
-    <item>Оригінальна істория</item>
+    <item>Оригінальна історія</item>
     <item>Манґа</item>
     <item>Інше</item>
   </string-array>
@@ -231,17 +231,17 @@
   <string name="pref_reader_3_default">Горизонтальное перелистування</string>
   <string name="pref_reader_4">Межрядковий інтервал</string>
   <string name="pref_reader_4_default">1.24</string>
-  <string name="pref_reader_6">Прокрутка сторінок нажаттям у край екрану</string>
-  <string name="pref_reader_7">Прокрутка сторінок клавішами гучності</string>
-  <string name="pref_reader_8">Розмер тексту</string>
-  <string name="pref_reader_9">Розмер тексту примітки</string>
+  <string name="pref_reader_6">Зміна сторінок нажаттям у край екрану</string>
+  <string name="pref_reader_7">Зміна сторінок клавішами гучності</string>
+  <string name="pref_reader_8">Розмір тексту</string>
+  <string name="pref_reader_9">Розмір тексту примітки</string>
   <string name="pref_reader_10">Відступ початку параграфу</string>
   <string name="pref_reader_11">Відступ зверху та знизу сторінки</string>
   <string name="pref_reader_12">Відступ зліва та зправа сторінки</string>
   <string name="pref_reader_13">Колір тексту</string>
   <string name="pref_reader_13_sum">Виберіть колір тексту</string>
   <string name="pref_reader_14">Колір заднього фону</string>
-  <string name="pref_reader_14_sum">Выберите цвет фона страницы</string>
+  <string name="pref_reader_14_sum">Виберіть колір фону сторінки</string>
   <string name="pref_reader_15">Вторичний колір</string>
   <string name="pref_reader_15_sum">Виберіть колір індикатора приміток, посилань та цитат</string>
   <string name="pref_reader_16">Блокировати відключення екрану під час читання</string>
@@ -258,7 +258,7 @@
   <string name="msg_downloader_notification_description">Сповіщення про загрузки з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про оновлення на novel.tl</string>
 
-  <string name="msg_press_twice_quit">Нажміте двічі для виходу</string>
+  <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
   <string name="msg_open_in">Відкрити з допомогою:</string>
 
   <string name="msg_main_selected_one">Вибрано: 1</string>
@@ -300,9 +300,9 @@
   <string name="err_downloads_file_not_deleted">Помилка видалення файлів</string>
   <string name="err_downloads_no_application">На пристрої немає додатку для відкриття %1$s</string>
 
-  <string name="err_main_exception">Неизвестная ошибка получения разделов</string>
+  <string name="err_main_exception">Невідома помилка отримання розділів</string>
 
-  <string name="err_project_exception">ННевідома помилка</string>
+  <string name="err_project_exception">Невідома помилка</string>
   <string name="err_project_require_login">Необхідно ввійти в аккаунт</string>
   <string name="err_project_volumes_exception">Помилка загрузки списку томів</string>
   <string name="err_project_updates_exception">Помилка загрузки оновлення</string>
@@ -319,7 +319,7 @@
   <string name="err_reader_write_bookmarks">Помилка при збереженні закладок</string>
   <string name="err_reader_not_published">Текст не опубліковано</string>
   <string name="err_reader_submit_correction">Помилка відправки виправлень</string>
-  <string name="err_reader_short_correction">Виделіть мінімум 3 слова</string>
+  <string name="err_reader_short_correction">Виділіть мінімум 3 слова</string>
   <string name="err_reader_cor_empty">Виправлення не може бути пустим</string>
   <string name="err_reader_cor_empty_original">Вибранний текст пустий, виділіть заново</string>
   <string name="err_reader_cor_same">Виправлення не може бути ідентичне оригіналу</string>
@@ -328,8 +328,8 @@
   <string name="err_updates_exception">Невідома помилка загрузки оновлень</string>
 
   <string name="err_user_authorized">Ви ввійшли як</string>
-  <string name="err_user_not_authorized">Не авторизований</string>
-  <string name="err_user_exception">Невідома помилка авторизаціх</string>
+  <string name="err_user_not_authorized">Не авторизовано</string>
+  <string name="err_user_exception">Невідома помилка авторизації</string>
   <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
   <string name="err_user_image_upload">Помилка загрузки изображения</string>
   <string name="err_user_image_not_found">Не вдалось знайти файл</string>
@@ -353,6 +353,6 @@
   <string name="app_info_1">«Novel.tl» Project © 2017–2021\nOfficial mobile client for Novel Translation resource</string>
   <string name="app_info_2">Розробник: 7Koston</string>
   <string name="app_info_3">seven.koston@gmail.com</string>
-  <string name="app_info_4">Third-party libraries were used:</string>
+  <string name="app_info_4">Використані бібліотеки:</string>
 
 </resources>
