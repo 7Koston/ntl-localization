@@ -59,8 +59,8 @@
   <string name="epub">EPUB</string>
   <string name="dwn_illustrations">Іллюстрації:</string>
   <string name="dwn_colorful">Кольорові</string>
-  <string name="dwn_monochrome">Черно-білі</string>
-  <string name="dwn_ok">Скачати</string>
+  <string name="dwn_monochrome">Чорно-білі</string>
+  <string name="dwn_ok">Завантажити</string>
   <string name="tool_filter_all">Всі</string>
   <string name="vol_popup_download">Завантажити</string>
   <string name="vol_popup_read">Читати</string>
@@ -87,7 +87,7 @@
   <string name="usr_about_app">Про додаток</string>
   <string name="usr_recruit">Набір в команду</string>
   <string name="usr_internal_storage">Внутрішнє сховище</string>
-  <string name="usr_external_storage">Зовшішнє сховище</string>
+  <string name="usr_external_storage">Зовнішнє сховище</string>
   <string name="usr_chose_file">ВИБРАТИ ФАЙЛ</string>
   <string name="usr_cancel">ВІДМІНА</string>
   <string name="ri_genres">Жанри:</string>
@@ -108,10 +108,10 @@
     <item>Сторонній переклад</item>
     <item>Не оформлено</item>
     <item>Закінчено</item>
-    <item>Ліцензировано</item>
+    <item>Ліцензовано</item>
     <item>Призупинено</item>
     <item>В черзі</item>
-    <item>Скрыт</item>
+    <item>Схований</item>
     <item>Сторонній переклад</item>
     <item>Немає анлейту</item>
     <item>Заморожено</item>
@@ -243,7 +243,7 @@
   <string name="pref_reader_14">Колір заднього фону</string>
   <string name="pref_reader_14_sum">Виберіть колір фону сторінки</string>
   <string name="pref_reader_15">Вторичний колір</string>
-  <string name="pref_reader_15_sum">Виберіть колір індикатора приміток, посилань та цитат</string>
+  <string name="pref_reader_15_sum">Виберіть колір індикатора зносок, посилань та цитат</string>
   <string name="pref_reader_16">Блокировати відключення екрану під час читання</string>
   <string name="pref_reader_17">Відступ під індикатором прогрессу читання</string>
 
@@ -251,9 +251,9 @@
 
   <string name="copied_to_clipboard">Скопійовано</string>
 
-  <string name="msg_share_volume">Поделитися посиланням на том:</string>
-  <string name="msg_share_project">Поделитися посиланням на проект:</string>
-  <string name="msg_share_comment">Поделиться ссылкой на комментарий:</string>
+  <string name="msg_share_volume">Поділитися посиланням на том:</string>
+  <string name="msg_share_project">Поділитися посиланням на проект:</string>
+  <string name="msg_share_comment">Поділитися посиланням на комментар:</string>
 
   <string name="msg_downloader_notification_description">Сповіщення про загрузки з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про оновлення на novel.tl</string>
@@ -292,7 +292,7 @@
   <string name="err_downloader_io_exception">| Помилка читання/запису</string>
   <string name="err_downloader_exception">| Невідома помилка</string>
   <string name="err_downloader_download_finished">| Завантаження завершено</string>
-  <string name="err_downloader_file_deleted">| файл видалений</string>
+  <string name="err_downloader_file_deleted">| Файл видалений</string>
 
   <string name="err_downloads_illegal_access">Не вдалось відкрити каталог загрузок</string>
   <string name="err_downloads_open_file">Помилка відкриття файлів</string>
@@ -341,7 +341,7 @@
   <string name="err_comments_submit_exception">Помилка відправки комментаря</string>
   <string name="err_comments_edit_exception">Помилка редагування комментаря</string>
   <string name="err_comments_delete_exception">Помилка видалення комментаря</string>
-  <string name="err_comments_short">Комментар занадто короткий короткий</string>
+  <string name="err_comments_short">Комментар занадто короткий</string>
   <string name="err_comments_auth">Необхідно ввійти в аккаунт</string>
 
   <string name="err_volume_external_exception">Неможливо відкрити посилання на зовнішнє джерело</string>
@@ -351,8 +351,8 @@
   <string name="reader_mi_submit_mistake">Вказати на помилку</string>
 
   <string name="app_info_1">«Novel.tl» Project © 2017–2021\nOfficial mobile client for Novel Translation resource</string>
-  <string name="app_info_2">Розробник: 7Koston</string>
+  <string name="app_info_2">Developer: 7Koston</string>
   <string name="app_info_3">seven.koston@gmail.com</string>
-  <string name="app_info_4">Використані бібліотеки:</string>
+  <string name="app_info_4">Third-party libraries were used:</string>
 
 </resources>
