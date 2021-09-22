@@ -1,4 +1,7 @@
-/*
-!/.gitignore
-!/README.md
-!*strings.xml
+*
+!*/
+!.gitignore
+!README.md
+!values/strings.xml
+!values-uk/strings.xml
+!values-en/strings.xml
