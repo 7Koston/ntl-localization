@@ -333,7 +333,7 @@
   <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
   <string name="err_user_image_upload">Помилка завантаження зображення</string>
   <string name="err_user_image_not_found">Не вдалось знайти файл</string>
-  <string name="err_user_image_io">Не вдалось відкрити зображення</string>
+  <string name="err_user_image_io">Не вдалося відкрити зображення</string>
   <string name="err_user_image_bad">Зображення перевищує обмеження</string>
 
   <string name="err_comments_empty">Коментарі відсутні</string>
@@ -342,7 +342,7 @@
   <string name="err_comments_edit_exception">Помилка редагування коментаря</string>
   <string name="err_comments_delete_exception">Помилка видалення коментаря</string>
   <string name="err_comments_short">Коментар занадто короткий</string>
-  <string name="err_comments_auth">Необхідно ввійти в аккаунт</string>
+  <string name="err_comments_auth">Необхідно увійти в аккаунт</string>
 
   <string name="err_volume_external_exception">Неможливо відкрити посилання на зовнішнє джерело</string>
   <string name="err_volume_exception">Помилка завантаження інформації про том</string>
