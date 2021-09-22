@@ -121,7 +121,7 @@
     <item>Редактура</item>
   </string-array>
   <string-array name="project_tr_status">
-    <item>Закічено</item>
+    <item>Закінчено</item>
     <item>Ліцензія</item>
     <item>Активно</item>
     <item>Онгоїнг</item>
@@ -332,7 +332,7 @@
   <string name="err_user_exception">Невідома помилка авторизації</string>
   <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
   <string name="err_user_image_upload">Помилка завантаження зображення</string>
-  <string name="err_user_image_not_found">Не вдалось знайти файл</string>
+  <string name="err_user_image_not_found">Не вдалося знайти файл</string>
   <string name="err_user_image_io">Не вдалося відкрити зображення</string>
   <string name="err_user_image_bad">Зображення перевищує обмеження</string>
 
@@ -347,7 +347,7 @@
   <string name="err_volume_external_exception">Неможливо відкрити посилання на зовнішнє джерело</string>
   <string name="err_volume_exception">Помилка завантаження інформації про том</string>
 
-  <string name="err_volume_requisites_exception">Помилка завантаження реквизитів</string>
+  <string name="err_volume_requisites_exception">Помилка завантаження реквізитів</string>
   <string name="reader_mi_submit_mistake">Вказати на помилку</string>
 
   <string name="app_info_1">«Novel.tl» Project © 2017–2021\nOfficial mobile client for Novel Translation resource</string>
