@@ -228,10 +228,10 @@
   <string name="pref_reader_2">Шрифт</string>
   <string name="pref_reader_2_default">Roboto</string>
   <string name="pref_reader_3">Спосіб читання</string>
-  <string name="pref_reader_3_default">Горизонтальное перелистування</string>
+  <string name="pref_reader_3_default">Горизонтальне перегортання</string>
   <string name="pref_reader_4">Міжрядковий інтервал</string>
   <string name="pref_reader_4_default">1.24</string>
-  <string name="pref_reader_6">Зміна сторінок нажаттям у край екрану</string>
+  <string name="pref_reader_6">Зміна сторінок натисканням в край екрану</string>
   <string name="pref_reader_7">Зміна сторінок клавішами гучності</string>
   <string name="pref_reader_8">Розмір тексту</string>
   <string name="pref_reader_9">Розмір тексту примітки</string>
@@ -255,7 +255,7 @@
   <string name="msg_share_project">Поділитися посиланням на проект:</string>
   <string name="msg_share_comment">Поділитися посиланням на коментар:</string>
 
-  <string name="msg_downloader_notification_description">Сповіщення про загрузки з novel.tl</string>
+  <string name="msg_downloader_notification_description">Сповіщення про завантаження з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
 
   <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
@@ -269,7 +269,7 @@
   <string name="msg_project_rating_revoked">Ваша оцінка була видалена</string>
   <string name="msg_project_rating_submitted">Дякую за вашу оцінку</string>
 
-  <string name="msg_user_image_uploaded">Зображення загружено</string>
+  <string name="msg_user_image_uploaded">Зображення завантажено</string>
 
   <string name="err_read_storage_permission_denied">Запис у внутрішню пам'ять заборонено</string>
   <string name="err_write_storage_permission_denied">Читання внутрішної пам'яті заборонено</string>
@@ -280,7 +280,7 @@
   <string name="err_bad_url">Не вдалося обробити URL</string>
 
   <string name="err_ecv_bad_url">URL пошкоджено або не містить зображення</string>
-  <string name="err_ecv_empty_url">Вкажіть URL в полі вводу</string>
+  <string name="err_ecv_empty_url">Вкажіть URL в полі введення</string>
 
   <string name="err_downloader_unknown_path">Неправильний шлях завантаження, вкажіть існуючу папку</string>
   <string name="err_downloader_file_format">Не вибрано формат файлу</string>
@@ -288,13 +288,13 @@
   <string name="err_downloader_socket_exception">| Завантаження перервалося</string>
   <string name="err_downloader_file_not_found">| Недопустимий шлях для завантаження</string>
   <string name="err_downloader_malformed_url">| URL пошкоджено</string>
-  <string name="err_downloader_unknown_host">| Нет підключення до інтернету</string>
+  <string name="err_downloader_unknown_host">| Немає підключення до інтернету</string>
   <string name="err_downloader_io_exception">| Помилка читання/запису</string>
   <string name="err_downloader_exception">| Невідома помилка</string>
   <string name="err_downloader_download_finished">| Завантаження завершено</string>
   <string name="err_downloader_file_deleted">| Файл видалений</string>
 
-  <string name="err_downloads_illegal_access">Не вдалося відкрити каталог загрузок</string>
+  <string name="err_downloads_illegal_access">Не вдалося відкрити каталог завантажень</string>
   <string name="err_downloads_open_file">Помилка відкриття файлів</string>
   <string name="err_downloads_partially_deleted">Деякі файли не видалені</string>
   <string name="err_downloads_file_not_deleted">Помилка видалення файлів</string>
@@ -303,7 +303,7 @@
   <string name="err_main_exception">Невідома помилка отримання розділів</string>
 
   <string name="err_project_exception">Невідома помилка</string>
-  <string name="err_project_require_login">Необхідно ввійти в аккаунт</string>
+  <string name="err_project_require_login">Необхідно увійти в аккаунт</string>
   <string name="err_project_volumes_exception">Помилка завантаження списку томів</string>
   <string name="err_project_updates_exception">Помилка завантаження обновлення</string>
 
@@ -314,7 +314,7 @@
   <string name="err_reader_empty_chapter">Розділ без тексту.</string>
   <string name="err_reader_no_next_chapter">Наступної частини немає"</string>
   <string name="err_reader_no_previous_chapter">Попередньої частини немає</string>
-  <string name="err_reader_pagination">Помилка разділення тексту на сторінки</string>
+  <string name="err_reader_pagination">Помилка поділу тексту на сторінки</string>
   <string name="err_reader_read_bookmarks">Помилка завантаження закладок</string>
   <string name="err_reader_write_bookmarks">Помилка при збереженні закладок</string>
   <string name="err_reader_not_published">Текст не опубліковано</string>
@@ -327,14 +327,14 @@
 
   <string name="err_updates_exception">Невідома помилка завантаження обновлень</string>
 
-  <string name="err_user_authorized">Ви ввійшли як</string>
+  <string name="err_user_authorized">Ви увійшли як</string>
   <string name="err_user_not_authorized">Не авторизовано</string>
   <string name="err_user_exception">Невідома помилка авторизації</string>
   <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
-  <string name="err_user_image_upload">Помилка загрузки изображения</string>
+  <string name="err_user_image_upload">Помилка завантаження зображення</string>
   <string name="err_user_image_not_found">Не вдалось знайти файл</string>
   <string name="err_user_image_io">Не вдалось відкрити зображення</string>
-  <string name="err_user_image_bad">Зображенния перевищує обмеження</string>
+  <string name="err_user_image_bad">Зображення перевищує обмеження</string>
 
   <string name="err_comments_empty">Коментарі відсутні</string>
   <string name="err_comments_exception">Невідома помилка отримання коментарів</string>
