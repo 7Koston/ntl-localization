@@ -16,7 +16,7 @@
   <string name="pi_author">Автор:</string>
   <string name="pi_illustrator">Ілюстратор:</string>
   <string name="pi_status">Статус:</string>
-  <string name="pi_last_update">Оновлено:</string>
+  <string name="pi_last_update">Обновлено:</string>
   <string name="pi_tr_status">Переклад:</string>
   <string name="pi_orig_story">Ориг. історія:</string>
   <string name="pi_orig_design">Ориг. дизайн:</string>
@@ -26,9 +26,9 @@
   <string name="pi_web">Web-роман:</string>
   <string name="pi_spin_offs">Спін-оффи:</string>
   <string name="pi_ss">Побічні історії:</string>
-  <string name="pi_about">ОПИС</string>
+  <string name="pi_about">ОПИСАННЯ</string>
   <string name="pi_volumes_list">ТОМА</string>
-  <string name="pi_updates">ОНОВЛЕННЯ</string>
+  <string name="pi_updates">ОБНОВЛЕННЯ</string>
   <string name="pi_submit_rating">ОЦІНИТИ</string>
   <string name="pi_submitted_rating">Ваша оцінка: %1$s</string>
   <string name="vi_type">Тип тому:</string>
@@ -43,7 +43,7 @@
   <string name="vi_download">СКАЧАТИ</string>
   <string name="vi_read">ЧИТАТИ</string>
   <string name="vi_comments">КОМЕНТАРІ</string>
-  <string name="vi_annotation">АННОТАЦІЯ</string>
+  <string name="vi_annotation">АНОТАЦІЯ</string>
   <string name="vc_hint">Залиште свій коментар</string>
   <string name="vc_answer">[b]%1$s[/b],\u0020</string>
   <string name="vc_delete_warning">Видалити ваш комментар?</string>
@@ -70,7 +70,7 @@
   <string name="reader_bookmark_empty">Закладок немає</string>
   <string name="reader_progress_empty">0/0</string>
   <string name="reader_to_prev_part">До попередньої частини</string>
-  <string name="reader_to_next_part">До наступньої частини</string>
+  <string name="reader_to_next_part">До наступної частини</string>
   <string name="reader_booked">Закладка додана</string>
   <string name="reader_mistake_in">[b]Помилка в:[/b]\n</string>
   <string name="reader_correction">[b]Виправлення:[/b]\n</string>
@@ -92,18 +92,18 @@
   <string name="usr_cancel">ВІДМІНА</string>
   <string name="ri_genres">Жанри:</string>
 
-  <string name="external_continue_login">Продолжити вхід</string>
+  <string name="external_continue_login">Продовжити вхід</string>
 
-  <string name="dwn_delete_warning">Видалити вибранні загружені файли?</string>
+  <string name="dwn_delete_warning">Видалити обрані завантажені файли?</string>
   <string name="usr_vk">Группа VK</string>
   <string name="usr_twitter">Twitter</string>
   <string name="usr_discord">Сервер Discord</string>
   <string name="usr_youtube">Youtube канал</string>
-  <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальнн розширення - 512px</string>
+  <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальне розширення - 512px</string>
 
   <string name="home_volume_team">Команда:</string>
-  <string name="home_date_updates">Оновлення</string>
-  <string name="home_volume_updated">Оновлено:</string>
+  <string name="home_date_updates">Обновлення</string>
+  <string name="home_volume_updated">Обновлено:</string>
   <string-array name="volume_tr_status">
     <item>Сторонній переклад</item>
     <item>Не оформлено</item>
@@ -160,7 +160,7 @@
   </string-array>
   <string-array name="pref_updates_notifications">
     <item>@string/pref_general_off</item>
-    <item>Всі оновлення</item>
+    <item>Всі обновлення</item>
     <item>Только улюблене</item>
   </string-array>
   <string-array name="pref_themes">
@@ -202,18 +202,18 @@
 
 
   <string name="nc_downloads">Завантаження</string>
-  <string name="nc_updates">Оновлення</string>
-  <string name="nc_general_updated">Оновлення на Novel.tl</string>
+  <string name="nc_updates">Обновлення</string>
+  <string name="nc_general_updated">Обновлення на Novel.tl</string>
   <string name="nc_general_updated_old">Novel.tl</string>
-  <string name="nc_general_updates_counter">Оновлено:</string>
-  <string name="nc_general_updates_counter_old">Нові оновлення: %1$d</string>
+  <string name="nc_general_updates_counter">Обновлено:</string>
+  <string name="nc_general_updates_counter_old">Нові обновлення: %1$d</string>
 
   <string name="pref_general_category">Загальні налаштування</string>
   <string name="pref_general_thumb_size">Якість ескізів обложок томів</string>
   <string name="pref_general_bigger_size">Якість картинок у збільшеному режимі</string>
   <string name="pref_general_downloads_folder">Папка завантажень</string>
   <string name="pref_general_themes">Тема оформленняя</string>
-  <string name="pref_general_updates_notifications">Отримувати сповіщення про оновлення</string>
+  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення</string>
   <string name="pref_general_on">Включено</string>
   <string name="pref_general_off">Виключено</string>
   <string name="pref_general_1_default">240px</string>
@@ -256,7 +256,7 @@
   <string name="msg_share_comment">Поділитися посиланням на коментар:</string>
 
   <string name="msg_downloader_notification_description">Сповіщення про загрузки з novel.tl</string>
-  <string name="msg_updates_notification_description">Сповіщення про оновлення на novel.tl</string>
+  <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
 
   <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
   <string name="msg_open_in">Відкрити за допомогою:</string>
@@ -305,7 +305,7 @@
   <string name="err_project_exception">Невідома помилка</string>
   <string name="err_project_require_login">Необхідно ввійти в аккаунт</string>
   <string name="err_project_volumes_exception">Помилка завантаження списку томів</string>
-  <string name="err_project_updates_exception">Помилка завантаження оновлення</string>
+  <string name="err_project_updates_exception">Помилка завантаження обновлення</string>
 
   <string name="err_projects_exception">Помилка завантаження списку проектів</string>
 
@@ -325,7 +325,7 @@
   <string name="err_reader_cor_same">Виправлення не може бути ідентичне оригіналу</string>
   <string name="err_reader_bad_bookmark">Закладка вказує на недоступний розділ</string>
 
-  <string name="err_updates_exception">Невідома помилка завантаження оновлень</string>
+  <string name="err_updates_exception">Невідома помилка завантаження обновлень</string>
 
   <string name="err_user_authorized">Ви ввійшли як</string>
   <string name="err_user_not_authorized">Не авторизовано</string>
