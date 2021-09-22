@@ -319,7 +319,7 @@
   <string name="err_reader_exception">Ошибка открытия текста для чтения</string>
   <string name="err_reader_empty_text">Текст отсутствует</string>
   <string name="err_reader_empty_chapter">Глава без текста. Каэф.</string>
-  <string name="err_reader_no_next_chapter">Следующей части нет"</string>
+  <string name="err_reader_no_next_chapter">Следующей части нет</string>
   <string name="err_reader_no_previous_chapter">Предыдущей части нет</string>
   <string name="err_reader_pagination">Ошибка разделения текста на страницы</string>
   <string name="err_reader_read_bookmarks">Ошибка загрузки закладок</string>
