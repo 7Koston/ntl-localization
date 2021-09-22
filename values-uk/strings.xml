@@ -209,7 +209,7 @@
   <string name="nc_general_updates_counter_old">Нові обновлення: %1$d</string>
 
   <string name="pref_general_category">Загальні налаштування</string>
-  <string name="pref_general_thumb_size">Якість ескізів обложок томів</string>
+  <string name="pref_general_thumb_size">Якість ескізів обкладинок томів</string>
   <string name="pref_general_bigger_size">Якість картинок у збільшеному режимі</string>
   <string name="pref_general_downloads_folder">Папка завантажень</string>
   <string name="pref_general_themes">Тема оформленняя</string>
@@ -286,7 +286,7 @@
   <string name="err_downloader_file_format">Не вибрано формат файлу</string>
   <string name="err_downloader_creating_folder">Помилка в створенні папки для ранобе</string>
   <string name="err_downloader_socket_exception">| Завантаження перервалося</string>
-  <string name="err_downloader_file_not_found">| Недопустимий шлях для завантаження</string>
+  <string name="err_downloader_file_not_found">| Неприпустимий шлях для завантаження</string>
   <string name="err_downloader_malformed_url">| URL пошкоджено</string>
   <string name="err_downloader_unknown_host">| Немає підключення до інтернету</string>
   <string name="err_downloader_io_exception">| Помилка читання/запису</string>
@@ -312,7 +312,7 @@
   <string name="err_reader_exception">Помилка відкриття тексту для читання</string>
   <string name="err_reader_empty_text">Текст відсутній</string>
   <string name="err_reader_empty_chapter">Розділ без тексту.</string>
-  <string name="err_reader_no_next_chapter">Наступної частини немає"</string>
+  <string name="err_reader_no_next_chapter">Наступної частини немає</string>
   <string name="err_reader_no_previous_chapter">Попередньої частини немає</string>
   <string name="err_reader_pagination">Помилка поділу тексту на сторінки</string>
   <string name="err_reader_read_bookmarks">Помилка завантаження закладок</string>
