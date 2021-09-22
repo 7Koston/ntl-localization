@@ -276,7 +276,7 @@
   <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам'ять заборонено назавжди</string>
   <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам'яті заборонено назавжди</string>
 
-  <string name="err_no_internet">Подключення до інтернету відсутнє</string>
+  <string name="err_no_internet">Підключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
 
   <string name="err_ecv_bad_url">URL пошкоджено або не містить зображення</string>
