@@ -100,7 +100,8 @@
   <string name="usr_discord">Сервер Discord</string>
   <string name="usr_youtube">Youtube канал</string>
   <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальне розширення - 512px</string>
-
+  <string name="usr_logout">Ви впевнені що хочете вийти зі свого аккаунта?</string>
+  
   <string name="home_volume_team">Команда:</string>
   <string name="home_date_updates">Обновлення</string>
   <string name="home_volume_updated">Обновлено:</string>
@@ -199,8 +200,9 @@
     <item>1.8</item>
     <item>2</item>
   </string-array>
-
-
+  
+  <string name="d_more">Детальніше</string>
+  
   <string name="nc_downloads">Завантаження</string>
   <string name="nc_updates">Обновлення</string>
   <string name="nc_general_updated">Обновлення на Novel.tl</string>
@@ -247,7 +249,11 @@
   <string name="pref_reader_16">Блокувати відключення екрану під час читання</string>
   <string name="pref_reader_17">Відступ під індикатором прогресу читання</string>
 
-  <string name="pref_move_question">Перемістити всі завантажені файли в поточне сховище?</string>
+  <string name="pref_moving_complete">Завантажені файли успішно перенесені</string>
+  <string name="pref_moving_error">Не вдалося перенести завантажені файли</string>
+  <string name="pref_move_question">Всі завантажені файли будуть перенесені в нове сховище.</string>
+  <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішними сховищами</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати
+  </string>
 
   <string name="copied_to_clipboard">Скопійовано</string>
 
@@ -350,7 +356,7 @@
   <string name="err_volume_requisites_exception">Помилка завантаження реквізитів</string>
   <string name="reader_mi_submit_mistake">Вказати на помилку</string>
 
-  <string name="app_info_1">«Novel.tl» Project © 2017–2021\nOfficial mobile client for Novel Translation resource</string>
+  <string name="app_info_1">«Novel.tl» © 2017–2021\nOfficial mobile client</string>
   <string name="app_info_2">Developer: 7Koston</string>
   <string name="app_info_3">seven.koston@gmail.com</string>
   <string name="app_info_4">Third-party libraries were used:</string>
