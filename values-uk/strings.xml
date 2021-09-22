@@ -22,9 +22,9 @@
   <string name="pi_orig_design">Ориг. дизайн:</string>
   <string name="pi_anime">Аніме:</string>
   <string name="pi_manga">Манґа:</string>
-  <string name="pi_novel">Новелли:</string>
-  <string name="pi_web">Web-роман:</string>
-  <string name="pi_spin_offs">Спін-оффи:</string>
+  <string name="pi_novel">Новели:</string>
+  <string name="pi_web"Інтернет-роман:</string>
+  <string name="pi_spin_offs">Спін-офи:</string>
   <string name="pi_ss">Побічні історії:</string>
   <string name="pi_about">ОПИСАННЯ</string>
   <string name="pi_volumes_list">ТОМА</string>
@@ -77,7 +77,7 @@
   <string name="reader_correction_submitted">Дякую за вказані помилки</string>
   <string name="reader_correction_submit">ВІДПРАВИТИ</string>
   <string name="reader_correction_hint">Виправлення</string>
-  <string name="m_update_sections">Оновити розділи</string>
+  <string name="m_update_sections">Обновити розділи</string>
   <string name="m_search_hint">Пошук</string>
   <string name="m_image_attach_hint">URL зображення</string>
   <string name="m_projects_by_popularity">По популярності</string>
@@ -95,7 +95,7 @@
   <string name="external_continue_login">Продовжити вхід</string>
 
   <string name="dwn_delete_warning">Видалити обрані завантажені файли?</string>
-  <string name="usr_vk">Группа VK</string>
+  <string name="usr_vk">Група VK</string>
   <string name="usr_twitter">Twitter</string>
   <string name="usr_discord">Сервер Discord</string>
   <string name="usr_youtube">Youtube канал</string>
@@ -117,7 +117,7 @@
     <item>Заморожено</item>
     <item>Сторонній переклад</item>
     <item>Онгоїнг</item>
-    <item>Перевод</item>
+    <item>Переклад</item>
     <item>Редактура</item>
   </string-array>
   <string-array name="project_tr_status">
@@ -161,12 +161,12 @@
   <string-array name="pref_updates_notifications">
     <item>@string/pref_general_off</item>
     <item>Всі обновлення</item>
-    <item>Только улюблене</item>
+    <item>Тільки улюблене</item>
   </string-array>
   <string-array name="pref_themes">
     <item>Згідно системи</item>
     <item>Темна</item>
-    <item>Светла</item>
+    <item>Світла</item>
   </string-array>
   <string-array name="pref_themes_values">
     <item>@string/pref_general_3_default</item>
@@ -272,9 +272,9 @@
   <string name="msg_user_image_uploaded">Зображення загружено</string>
 
   <string name="err_read_storage_permission_denied">Запис у внутрішню пам'ять заборонено</string>
-  <string name="err_write_storage_permission_denied">Читання внутрішної пам'яты заборонено</string>
+  <string name="err_write_storage_permission_denied">Читання внутрішної пам'яті заборонено</string>
   <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам'ять заборонено назавжди</string>
-  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам'яты заборонено назавжди</string>
+  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам'яті заборонено назавжди</string>
 
   <string name="err_no_internet">Подключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
@@ -285,7 +285,7 @@
   <string name="err_downloader_unknown_path">Неправильний шлях завантаження, вкажіть існуючу папку</string>
   <string name="err_downloader_file_format">Не вибрано формат файлу</string>
   <string name="err_downloader_creating_folder">Помилка в створенні папки для ранобе</string>
-  <string name="err_downloader_socket_exception">| Загрузка перервалась</string>
+  <string name="err_downloader_socket_exception">| Завантаження перервалося</string>
   <string name="err_downloader_file_not_found">| Недопустимий шлях для завантаження</string>
   <string name="err_downloader_malformed_url">| URL пошкоджено</string>
   <string name="err_downloader_unknown_host">| Нет підключення до інтернету</string>
