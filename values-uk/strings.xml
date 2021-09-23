@@ -4,7 +4,7 @@
 
   <string name="nav_bar_home">Головна</string>
   <string name="nav_bar_projects">Проекти</string>
-  <string name="nav_bar_downloads">Загрузки</string>
+  <string name="nav_bar_downloads">Завантаження</string>
   <string name="nav_bar_favorites">Улюблене</string>
   <string name="nav_bar_user">Користувач</string>
   <string name="nav_bar_settings">Налаштування</string>
@@ -14,41 +14,41 @@
   <string name="pi_not_favorite">В улюблене</string>
   <string name="pi_rating">%1$s\u0020/\u0020%2$s</string>
   <string name="pi_author">Автор:</string>
-  <string name="pi_illustrator">Іллюстратор:</string>
+  <string name="pi_illustrator">Ілюстратор:</string>
   <string name="pi_status">Статус:</string>
-  <string name="pi_last_update">Оновлено:</string>
+  <string name="pi_last_update">Обновлено:</string>
   <string name="pi_tr_status">Переклад:</string>
   <string name="pi_orig_story">Ориг. історія:</string>
   <string name="pi_orig_design">Ориг. дизайн:</string>
   <string name="pi_anime">Аніме:</string>
   <string name="pi_manga">Манґа:</string>
-  <string name="pi_novel">Новелли:</string>
-  <string name="pi_web">Web-роман:</string>
-  <string name="pi_spin_offs">Спін-оффи:</string>
+  <string name="pi_novel">Новели:</string>
+  <string name="pi_web"Інтернет-роман:</string>
+  <string name="pi_spin_offs">Спін-офи:</string>
   <string name="pi_ss">Побічні історії:</string>
-  <string name="pi_about">ОПИС</string>
+  <string name="pi_about">ОПИСАННЯ</string>
   <string name="pi_volumes_list">ТОМА</string>
-  <string name="pi_updates">ОНОВЛЕННЯ</string>
+  <string name="pi_updates">ОБНОВЛЕННЯ</string>
   <string name="pi_submit_rating">ОЦІНИТИ</string>
   <string name="pi_submitted_rating">Ваша оцінка: %1$s</string>
   <string name="vi_type">Тип тому:</string>
   <string name="vi_release_date">Дата випуску:</string>
   <string name="vi_status">Статус:</string>
   <string name="vi_author">Автор:</string>
-  <string name="vi_illustrator">Іллюстратор:</string>
+  <string name="vi_illustrator">Ілюстратор:</string>
   <string name="vi_or_design">Ориг. дизайн:</string>
-  <string name="vi_or_story">Ориг. істория:</string>
-  <string name="vi_isbn">ISBN:</string>
+  <string name="vi_or_story">Ориг. історія:</string>
+  <string name="vi_isbn">ISBN:</stri+ng>
   <string name="vi_teams">Команда:</string>
   <string name="vi_download">СКАЧАТИ</string>
   <string name="vi_read">ЧИТАТИ</string>
-  <string name="vi_comments">КОММЕНТАРІ</string>
-  <string name="vi_annotation">АННОТАЦІЯ</string>
-  <string name="vc_hint">Залиште свій комментар</string>
+  <string name="vi_comments">КОМЕНТАРІ</string>
+  <string name="vi_annotation">АНОТАЦІЯ</string>
+  <string name="vc_hint">Залиште свій коментар</string>
   <string name="vc_answer">[b]%1$s[/b],\u0020</string>
   <string name="vc_delete_warning">Видалити ваш комментар?</string>
   <string name="vr_delete_warning">Видалити вашу відповідь?</string>
-  <string name="vr_cant_delete_warning">Неможливо видалити комментар у якого вже є відповіді</string>
+  <string name="vr_cant_delete_warning">Неможливо видалити коментар у якого вже є відповіді</string>
   <string name="vc_more_replies"><b>ПОКАЗАТИ ВСІ ВІДПОВІДІ</b></string>
   <string name="c_comment">Відповіді</string>
   <string name="c_attach_image">ПРИКРІПИТИ</string>
@@ -57,7 +57,7 @@
   <string name="fb2">FB2</string>
   <string name="docx">DOCX</string>
   <string name="epub">EPUB</string>
-  <string name="dwn_illustrations">Іллюстрації:</string>
+  <string name="dwn_illustrations">Ілюстрації:</string>
   <string name="dwn_colorful">Кольорові</string>
   <string name="dwn_monochrome">Чорно-білі</string>
   <string name="dwn_ok">Завантажити</string>
@@ -70,14 +70,14 @@
   <string name="reader_bookmark_empty">Закладок немає</string>
   <string name="reader_progress_empty">0/0</string>
   <string name="reader_to_prev_part">До попередньої частини</string>
-  <string name="reader_to_next_part">До наступньої частини</string>
+  <string name="reader_to_next_part">До наступної частини</string>
   <string name="reader_booked">Закладка додана</string>
   <string name="reader_mistake_in">[b]Помилка в:[/b]\n</string>
   <string name="reader_correction">[b]Виправлення:[/b]\n</string>
   <string name="reader_correction_submitted">Дякую за вказані помилки</string>
   <string name="reader_correction_submit">ВІДПРАВИТИ</string>
   <string name="reader_correction_hint">Виправлення</string>
-  <string name="m_update_sections">Оновити розділи</string>
+  <string name="m_update_sections">Обновити розділи</string>
   <string name="m_search_hint">Пошук</string>
   <string name="m_image_attach_hint">URL зображення</string>
   <string name="m_projects_by_popularity">По популярності</string>
@@ -92,37 +92,36 @@
   <string name="usr_cancel">ВІДМІНА</string>
   <string name="ri_genres">Жанри:</string>
 
-  <string name="external_continue_login">Продолжити вхід</string>
+  <string name="external_continue_login">Продовжити вхід</string>
 
-  <string name="dwn_delete_warning">Видалити вибранні загружені файли?</string>
-  <string name="usr_vk">Группа VK</string>
+  <string name="dwn_delete_warning">Видалити обрані завантажені файли?</string>
+  <string name="usr_vk">Група VK</string>
   <string name="usr_twitter">Twitter</string>
   <string name="usr_discord">Сервер Discord</string>
   <string name="usr_youtube">Youtube канал</string>
-  <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальнн розширення - 512px</string>
+  <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальне розширення - 512px</string>
   <string name="usr_logout">Ви впевнені що хочете вийти зі свого аккаунта?</string>
-
   <string name="home_volume_team">Команда:</string>
-  <string name="home_date_updates">Оновлення</string>
-  <string name="home_volume_updated">Оновлено:</string>
+  <string name="home_date_updates">Обновлення</string>
+  <string name="home_volume_updated">Обновлено:</string>
   <string-array name="volume_tr_status">
     <item>Сторонній переклад</item>
     <item>Не оформлено</item>
     <item>Закінчено</item>
-    <item>Ліцензовано</item>
+    <item>Ліцензований</item>
     <item>Призупинено</item>
     <item>В черзі</item>
-    <item>Схований</item>
+    <item>Прихований</item>
     <item>Сторонній переклад</item>
-    <item>Немає анлейту</item>
+    <item>Немає анлейта</item>
     <item>Заморожено</item>
     <item>Сторонній переклад</item>
     <item>Онгоїнг</item>
-    <item>Перевод</item>
+    <item>Переклад</item>
     <item>Редактура</item>
   </string-array>
   <string-array name="project_tr_status">
-    <item>Закічено</item>
+    <item>Закінчено</item>
     <item>Ліцензія</item>
     <item>Активно</item>
     <item>Онгоїнг</item>
@@ -137,7 +136,7 @@
   <string-array name="vi_type">
     <item>Ранобе</item>
     <item>Побічна історія</item>
-    <item>Авторске додзінсі</item>
+    <item>Авторське додзінсі</item>
     <item>Веб-роман</item>
     <item>Оригінальна історія</item>
     <item>Манґа</item>
@@ -161,13 +160,13 @@
   </string-array>
   <string-array name="pref_updates_notifications">
     <item>@string/pref_general_off</item>
-    <item>Всі оновлення</item>
-    <item>Только улюблене</item>
+    <item>Всі обновлення</item>
+    <item>Тільки улюблене</item>
   </string-array>
   <string-array name="pref_themes">
     <item>Згідно системи</item>
     <item>Темна</item>
-    <item>Светла</item>
+    <item>Світла</item>
   </string-array>
   <string-array name="pref_themes_values">
     <item>@string/pref_general_3_default</item>
@@ -200,72 +199,70 @@
     <item>1.8</item>
     <item>2</item>
   </string-array>
-
+  
   <string name="d_more">Детальніше</string>
-
   <string name="nc_downloads">Завантаження</string>
-  <string name="nc_updates">Оновлення</string>
-  <string name="nc_general_updated">Оновлення на Novel.tl</string>
+  <string name="nc_updates">Обновлення</string>
+  <string name="nc_general_updated">Обновлення на Novel.tl</string>
   <string name="nc_general_updated_old">Novel.tl</string>
-  <string name="nc_general_updates_counter">Оновлено:</string>
-  <string name="nc_general_updates_counter_old">Нові оновлення: %1$d</string>
+  <string name="nc_general_updates_counter">Обновлено:</string>
+  <string name="nc_general_updates_counter_old">Нові обновлення: %1$d</string>
 
   <string name="pref_general_category">Загальні налаштування</string>
-  <string name="pref_general_thumb_size">Якість ескизів обложок томів</string>
+  <string name="pref_general_thumb_size">Якість ескізів обкладинок томів</string>
   <string name="pref_general_bigger_size">Якість картинок у збільшеному режимі</string>
-  <string name="pref_general_downloads_folder">Папка загрузок</string>
+  <string name="pref_general_downloads_folder">Папка завантажень</string>
   <string name="pref_general_themes">Тема оформленняя</string>
-  <string name="pref_general_updates_notifications">Отримувати сповіщення про оновлення</string>
+  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення</string>
   <string name="pref_general_on">Включено</string>
   <string name="pref_general_off">Виключено</string>
   <string name="pref_general_1_default">240px</string>
   <string name="pref_general_2_default">720px</string>
   <string name="pref_general_3_default">system</string>
 
-  <string name="pref_reader_category">Налаштування вюудованої читалки</string>
+  <string name="pref_reader_category">Налаштування вбудованої читалки</string>
   <string name="pref_reader_on">Включена</string>
   <string name="pref_reader_off">Виключена</string>
-  <string name="pref_reader_1">Якість іллюстраций</string>
+  <string name="pref_reader_1">Якість ілюстрацій</string>
   <string name="pref_reader_1_default">480px</string>
   <string name="pref_reader_2">Шрифт</string>
   <string name="pref_reader_2_default">Roboto</string>
   <string name="pref_reader_3">Спосіб читання</string>
-  <string name="pref_reader_3_default">Горизонтальное перелистування</string>
-  <string name="pref_reader_4">Межрядковий інтервал</string>
+  <string name="pref_reader_3_default">Горизонтальне перегортання</string>
+  <string name="pref_reader_4">Міжрядковий інтервал</string>
   <string name="pref_reader_4_default">1.24</string>
-  <string name="pref_reader_6">Зміна сторінок нажаттям у край екрану</string>
+  <string name="pref_reader_6">Зміна сторінок натисканням в край екрану</string>
   <string name="pref_reader_7">Зміна сторінок клавішами гучності</string>
   <string name="pref_reader_8">Розмір тексту</string>
   <string name="pref_reader_9">Розмір тексту примітки</string>
   <string name="pref_reader_10">Відступ початку параграфу</string>
   <string name="pref_reader_11">Відступ зверху та знизу сторінки</string>
-  <string name="pref_reader_12">Відступ зліва та зправа сторінки</string>
+  <string name="pref_reader_12">Відступ зліва та справа сторінки</string>
   <string name="pref_reader_13">Колір тексту</string>
   <string name="pref_reader_13_sum">Виберіть колір тексту</string>
   <string name="pref_reader_14">Колір заднього фону</string>
   <string name="pref_reader_14_sum">Виберіть колір фону сторінки</string>
-  <string name="pref_reader_15">Вторичний колір</string>
-  <string name="pref_reader_15_sum">Виберіть колір індикатора зносок, посилань та цитат</string>
-  <string name="pref_reader_16">Блокировати відключення екрану під час читання</string>
-  <string name="pref_reader_17">Відступ під індикатором прогрессу читання</string>
+  <string name="pref_reader_15">Вторинний колір</string>
+  <string name="pref_reader_15_sum">Виберіть колір індикатора приміток, посилань та цитат</string>
+  <string name="pref_reader_16">Блокувати відключення екрану під час читання</string>
+  <string name="pref_reader_17">Відступ під індикатором прогресу читання</string>
 
-  <string name="pref_moving_complete">Загружені файли успішно перенесені</string>
-  <string name="pref_moving_error">Чи не вдалося перенести загружені файли.</string>
-  <string name="pref_move_question">Всі загружені файли будуть перенесені в поточне сховище.</string>
-  <string name="pref_move_question_api30">Всі загружені файли будуть перенесені в поточне сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатки збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете відкрити їх.
-  </string>
+  <string name="pref_moving_complete">Завантажені файли успішно перенесені</string>
+  <string name="pref_moving_error">Не вдалося перенести завантажені файли</string>
+  <string name="pref_move_question">Всі завантажені файли будуть перенесені в нове сховище.</string>
+  <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати.
 
   <string name="copied_to_clipboard">Скопійовано:</string>
 
   <string name="msg_share_volume">Поділитися посиланням на том:</string>
   <string name="msg_share_project">Поділитися посиланням на проект:</string>
-  <string name="msg_share_comment">Поділитися посиланням на комментар:</string>
+  <string name="msg_share_comment">Поділитися посиланням на коментар:</string>
 
-  <string name="msg_downloader_notification_description">Сповіщення про загрузки з novel.tl</string>
-  <string name="msg_updates_notification_description">Сповіщення про оновлення на novel.tl</string>
+  <string name="msg_downloader_notification_description">Сповіщення про завантаження з novel.tl</string>
+  <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
 
   <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
-  <string name="msg_open_in">Відкрити з допомогою:</string>
+  <string name="msg_open_in">Відкрити за допомогою:</string>
 
   <string name="msg_main_selected_one">Вибрано: 1</string>
   <string name="msg_main_selected">Вибрано:</string>
@@ -275,32 +272,32 @@
   <string name="msg_project_rating_revoked">Ваша оцінка була видалена</string>
   <string name="msg_project_rating_submitted">Дякую за вашу оцінку</string>
 
-  <string name="msg_user_image_uploaded">Зображення загружено</string>
+  <string name="msg_user_image_uploaded">Зображення завантажено</string>
 
-  <string name="err_read_storage_permission_denied">Запис у внутрішню пам\'ять заборонено</string>
-  <string name="err_write_storage_permission_denied">Читання внутрішної пам\'яты заборонено</string>
-  <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам\'ять заборонено назавжди</string>
-  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам\'яты заборонено назавжди</string>
+  <string name="err_read_storage_permission_denied">Запис у внутрішню пам'ять заборонено</string>
+  <string name="err_write_storage_permission_denied">Читання внутрішної пам'яті заборонено</string>
+  <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам'ять заборонено назавжди</string>
+  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам'яті заборонено назавжди</string>
 
-  <string name="err_no_internet">Подключення до інтернету відсутнє</string>
+  <string name="err_no_internet">Підключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
 
   <string name="err_ecv_bad_url">URL пошкоджено або не містить зображення</string>
-  <string name="err_ecv_empty_url">Вкажіть URL в полі вводу</string>
+  <string name="err_ecv_empty_url">Вкажіть URL в полі введення</string>
 
-  <string name="err_downloader_unknown_path">Неправильний шлях загрузки, вкажіть існуючу папку</string>
+  <string name="err_downloader_unknown_path">Неправильний шлях завантаження, вкажіть існуючу папку</string>
   <string name="err_downloader_file_format">Не вибрано формат файлу</string>
   <string name="err_downloader_creating_folder">Помилка в створенні папки для ранобе</string>
-  <string name="err_downloader_socket_exception">| Загрузка перервалась</string>
-  <string name="err_downloader_file_not_found">| Недопустимий шлях для загрузки</string>
+  <string name="err_downloader_socket_exception">| Завантаження перервалося</string>
+  <string name="err_downloader_file_not_found">| Неприпустимий шлях для завантаження</string>
   <string name="err_downloader_malformed_url">| URL пошкоджено</string>
-  <string name="err_downloader_unknown_host">| Нет підключення до інтернету</string>
+  <string name="err_downloader_unknown_host">| Немає підключення до інтернету</string>
   <string name="err_downloader_io_exception">| Помилка читання/запису</string>
   <string name="err_downloader_exception">| Невідома помилка</string>
   <string name="err_downloader_download_finished">| Завантаження завершено</string>
   <string name="err_downloader_file_deleted">| Файл видалений</string>
 
-  <string name="err_downloads_illegal_access">Не вдалось відкрити каталог загрузок</string>
+  <string name="err_downloads_illegal_access">Не вдалося відкрити каталог завантажень</string>
   <string name="err_downloads_open_file">Помилка відкриття файлів</string>
   <string name="err_downloads_partially_deleted">Деякі файли не видалені</string>
   <string name="err_downloads_file_not_deleted">Помилка видалення файлів</string>
@@ -309,19 +306,19 @@
   <string name="err_main_exception">Невідома помилка отримання розділів</string>
 
   <string name="err_project_exception">Невідома помилка</string>
-  <string name="err_project_require_login">Необхідно ввійти в аккаунт</string>
-  <string name="err_project_volumes_exception">Помилка загрузки списку томів</string>
-  <string name="err_project_updates_exception">Помилка загрузки оновлення</string>
+  <string name="err_project_require_login">Необхідно увійти в аккаунт</string>
+  <string name="err_project_volumes_exception">Помилка завантаження списку томів</string>
+  <string name="err_project_updates_exception">Помилка завантаження обновлення</string>
 
-  <string name="err_projects_exception">Помилка загрузки списку проектів</string>
+  <string name="err_projects_exception">Помилка завантаження списку проектів</string>
 
   <string name="err_reader_exception">Помилка відкриття тексту для читання</string>
   <string name="err_reader_empty_text">Текст відсутній</string>
   <string name="err_reader_empty_chapter">Розділ без тексту.</string>
-  <string name="err_reader_no_next_chapter">Наступної частини немає"</string>
+  <string name="err_reader_no_next_chapter">Наступної частини немає</string>
   <string name="err_reader_no_previous_chapter">Попередньої частини немає</string>
-  <string name="err_reader_pagination">Помилка разділення тексту на сторінки</string>
-  <string name="err_reader_read_bookmarks">Помилка загрузки закладок</string>
+  <string name="err_reader_pagination">Помилка поділу тексту на сторінки</string>
+  <string name="err_reader_read_bookmarks">Помилка завантаження закладок</string>
   <string name="err_reader_write_bookmarks">Помилка при збереженні закладок</string>
   <string name="err_reader_not_published">Текст не опубліковано</string>
   <string name="err_reader_submit_correction">Помилка відправки виправлень</string>
@@ -331,29 +328,29 @@
   <string name="err_reader_cor_same">Виправлення не може бути ідентичне оригіналу</string>
   <string name="err_reader_bad_bookmark">Закладка вказує на недоступний розділ</string>
 
-  <string name="err_updates_exception">Невідома помилка загрузки оновлень</string>
+  <string name="err_updates_exception">Невідома помилка завантаження обновлень</string>
 
-  <string name="err_user_authorized">Ви ввійшли як</string>
+  <string name="err_user_authorized">Ви увійшли як</string>
   <string name="err_user_not_authorized">Не авторизовано</string>
   <string name="err_user_exception">Невідома помилка авторизації</string>
   <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
-  <string name="err_user_image_upload">Помилка загрузки изображения</string>
-  <string name="err_user_image_not_found">Не вдалось знайти файл</string>
-  <string name="err_user_image_io">Не вдалось відкрити зображення</string>
-  <string name="err_user_image_bad">Зображенния перевищує обмеження</string>
+  <string name="err_user_image_upload">Помилка завантаження зображення</string>
+  <string name="err_user_image_not_found">Не вдалося знайти файл</string>
+  <string name="err_user_image_io">Не вдалося відкрити зображення</string>
+  <string name="err_user_image_bad">Зображення перевищує обмеження</string>
 
-  <string name="err_comments_empty">Комментарі відсутні</string>
-  <string name="err_comments_exception">Невідома помилка отримання комментарів</string>
-  <string name="err_comments_submit_exception">Помилка відправки комментаря</string>
-  <string name="err_comments_edit_exception">Помилка редагування комментаря</string>
-  <string name="err_comments_delete_exception">Помилка видалення комментаря</string>
-  <string name="err_comments_short">Комментар занадто короткий</string>
-  <string name="err_comments_auth">Необхідно ввійти в аккаунт</string>
+  <string name="err_comments_empty">Коментарі відсутні</string>
+  <string name="err_comments_exception">Невідома помилка отримання коментарів</string>
+  <string name="err_comments_submit_exception">Помилка відправки коментаря</string>
+  <string name="err_comments_edit_exception">Помилка редагування коментаря</string>
+  <string name="err_comments_delete_exception">Помилка видалення коментаря</string>
+  <string name="err_comments_short">Коментар занадто короткий</string>
+  <string name="err_comments_auth">Необхідно увійти в аккаунт</string>
 
   <string name="err_volume_external_exception">Неможливо відкрити посилання на зовнішнє джерело</string>
-  <string name="err_volume_exception">Помилка загрузки інформації про том</string>
+  <string name="err_volume_exception">Помилка завантаження інформації про том</string>
 
-  <string name="err_volume_requisites_exception">Помилка загрузки реквизитів</string>
+  <string name="err_volume_requisites_exception">Помилка завантаження реквізитів</string>
   <string name="reader_mi_submit_mistake">Вказати на помилку</string>
 
   <string name="app_info_1">«Novel.tl» © 2017–2021\nOfficial mobile client</string>
