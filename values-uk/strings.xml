@@ -23,7 +23,7 @@
   <string name="pi_anime">Аніме:</string>
   <string name="pi_manga">Манґа:</string>
   <string name="pi_novel">Новели:</string>
-  <string name="pi_web"Інтернет-роман:</string>
+  <string name="pi_web">Інтернет-роман:</string>
   <string name="pi_spin_offs">Спін-офи:</string>
   <string name="pi_ss">Побічні історії:</string>
   <string name="pi_about">ОПИСАННЯ</string>
@@ -38,7 +38,7 @@
   <string name="vi_illustrator">Ілюстратор:</string>
   <string name="vi_or_design">Ориг. дизайн:</string>
   <string name="vi_or_story">Ориг. історія:</string>
-  <string name="vi_isbn">ISBN:</stri+ng>
+  <string name="vi_isbn">ISBN:</string>
   <string name="vi_teams">Команда:</string>
   <string name="vi_download">СКАЧАТИ</string>
   <string name="vi_read">ЧИТАТИ</string>
@@ -199,7 +199,7 @@
     <item>1.8</item>
     <item>2</item>
   </string-array>
-  
+
   <string name="d_more">Детальніше</string>
   <string name="nc_downloads">Завантаження</string>
   <string name="nc_updates">Обновлення</string>
@@ -250,8 +250,7 @@
   <string name="pref_moving_complete">Завантажені файли успішно перенесені</string>
   <string name="pref_moving_error">Не вдалося перенести завантажені файли</string>
   <string name="pref_move_question">Всі завантажені файли будуть перенесені в нове сховище.</string>
-  <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати.
-
+  <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати.</string>
   <string name="copied_to_clipboard">Скопійовано:</string>
 
   <string name="msg_share_volume">Поділитися посиланням на том:</string>
@@ -274,10 +273,10 @@
 
   <string name="msg_user_image_uploaded">Зображення завантажено</string>
 
-  <string name="err_read_storage_permission_denied">Запис у внутрішню пам'ять заборонено</string>
-  <string name="err_write_storage_permission_denied">Читання внутрішної пам'яті заборонено</string>
-  <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам'ять заборонено назавжди</string>
-  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам'яті заборонено назавжди</string>
+  <string name="err_read_storage_permission_denied">Запис у внутрішню пам\'ять заборонено</string>
+  <string name="err_write_storage_permission_denied">Читання внутрішної пам\'яті заборонено</string>
+  <string name="err_read_storage_permission_denied_forever">Запис у внутрішню пам\'ять заборонено назавжди</string>
+  <string name="err_write_storage_permission_denied_forever">Читання внутрішної пам\'яті заборонено назавжди</string>
 
   <string name="err_no_internet">Підключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
