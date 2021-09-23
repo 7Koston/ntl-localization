@@ -101,7 +101,6 @@
   <string name="usr_youtube">Youtube канал</string>
   <string name="usr_avatar_restrictions">Максимальний размір файлу - 1Mb\nМаксимальне розширення - 512px</string>
   <string name="usr_logout">Ви впевнені що хочете вийти зі свого аккаунта?</string>
-  
   <string name="home_volume_team">Команда:</string>
   <string name="home_date_updates">Обновлення</string>
   <string name="home_volume_updated">Обновлено:</string>
@@ -202,7 +201,6 @@
   </string-array>
   
   <string name="d_more">Детальніше</string>
-  
   <string name="nc_downloads">Завантаження</string>
   <string name="nc_updates">Обновлення</string>
   <string name="nc_general_updated">Обновлення на Novel.tl</string>
@@ -253,9 +251,8 @@
   <string name="pref_moving_error">Не вдалося перенести завантажені файли</string>
   <string name="pref_move_question">Всі завантажені файли будуть перенесені в нове сховище.</string>
   <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати.
-  </string>
 
-  <string name="copied_to_clipboard">Скопійовано</string>
+  <string name="copied_to_clipboard">Скопійовано:</string>
 
   <string name="msg_share_volume">Поділитися посиланням на том:</string>
   <string name="msg_share_project">Поділитися посиланням на проект:</string>
@@ -362,3 +359,4 @@
   <string name="app_info_4">Third-party libraries were used:</string>
 
 </resources>
+

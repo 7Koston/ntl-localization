@@ -100,6 +100,7 @@
   <string name="usr_discord">Сервер Discord</string>
   <string name="usr_youtube">Youtube канал</string>
   <string name="usr_avatar_restrictions">Максимальный размер файла - 1Mb\nМаксимальное разрешение - 512px</string>
+  <string name="usr_logout">Вы уверены что хотите выйти из аккаунта?</string>
 
   <string name="home_volume_team">Команда:</string>
   <string name="home_date_updates">Обновления</string>
@@ -200,8 +201,9 @@
     <item>2</item>
   </string-array>
 
+  <string name="d_more">Подробнее</string>
 
-  <string name="nc_downloads">Зугрузки</string>
+  <string name="nc_downloads">Загрузки</string>
   <string name="nc_updates">Обновления</string>
 
   <string name="nc_general_updated">Обновления на Novel.tl</string>
@@ -248,9 +250,13 @@
   <string name="pref_reader_16">Блокировать отключение экрана во время чтения</string>
   <string name="pref_reader_17">Отступ под индикатором прогресса чтения</string>
 
-  <string name="pref_move_question">Переместить все загруженные файлы в текущее хранилище?</string>
+  <string name="pref_moving_complete">Загруженные файлы успешно перенесены</string>
+  <string name="pref_moving_error">Не удалось перенести загруженные файлы</string>
+  <string name="pref_move_question">Все загруженные файлы будут перенесены в новое хранилище.</string>
+  <string name="pref_move_question_api30">Все загруженные файлы будут перенесены в новое хранилище.\n\nНачиная с Android 11 стало невозможным делиться файлами приложения сохраненными во <b>внешних хранилищах</b>. Вы все еще сможете загружать файлы, но не сможете открыть их.
+  </string>
 
-  <string name="copied_to_clipboard">Скопировано</string>
+  <string name="copied_to_clipboard">Скопировано:</string>
 
   <string name="msg_share_volume">Поделиться ссылкой на том:</string>
   <string name="msg_share_project">Поделиться ссылкой на проект:</string>
@@ -283,7 +289,7 @@
   <string name="err_ecv_bad_url">URL поврежден или не содержит изображение</string>
   <string name="err_ecv_empty_url">Укажите URL в поле ввода</string>
 
-  <string name="err_downloader_unknown_path">Неверный путь загрузки, кажите существующую папку</string>
+  <string name="err_downloader_unknown_path">Неверный путь загрузки, укажите существующую папку</string>
   <string name="err_downloader_file_format">Не выбран формат файла</string>
   <string name="err_downloader_creating_folder">Ошибка в создании папки для ранобэ</string>
   <string name="err_downloader_socket_exception">| Загрузка прервалась</string>
@@ -313,7 +319,7 @@
   <string name="err_reader_exception">Ошибка открытия текста для чтения</string>
   <string name="err_reader_empty_text">Текст отсутствует</string>
   <string name="err_reader_empty_chapter">Глава без текста. Каэф.</string>
-  <string name="err_reader_no_next_chapter">Следующей части нет"</string>
+  <string name="err_reader_no_next_chapter">Следующей части нет</string>
   <string name="err_reader_no_previous_chapter">Предыдущей части нет</string>
   <string name="err_reader_pagination">Ошибка разделения текста на страницы</string>
   <string name="err_reader_read_bookmarks">Ошибка загрузки закладок</string>
@@ -351,9 +357,11 @@
   <string name="err_volume_requisites_exception">Ошибка загрузки реквизитов</string>
   <string name="reader_mi_submit_mistake">Указать на ошибку</string>
 
-  <string name="app_info_1">«Novel.tl» Project © 2017–2021\nOfficial mobile client for Novel Translation resource</string>
+  <string name="app_info_1">«Novel.tl» © 2017–2021\nOfficial mobile client</string>
   <string name="app_info_2">Developer: 7Koston</string>
   <string name="app_info_3">seven.koston@gmail.com</string>
   <string name="app_info_4">Third-party libraries were used:</string>
 
 </resources>
+
+
