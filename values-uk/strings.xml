@@ -192,10 +192,10 @@
   <string name="pref_general_thumb_size">Якість ескізів обкладинок томів</string>
   <string name="pref_general_bigger_size">Якість картинок у збільшеному режимі</string>
   <string name="pref_general_downloads_folder">Папка завантажень</string>
-  <string name="pref_general_themes">Тема оформленняя</string>
-  <string name="pref_general_notifications">Налаштування оповіщень</string>
-  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення у вибраному</string>
-  <string name="pref_general_updates_replies">Отримувати оповіщення про нові відповіді</string>
+  <string name="pref_general_themes">Тема оформлення</string>
+  <string name="pref_general_notifications">Налаштування сповіщень</string>
+  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення в улюбленому</string>
+  <string name="pref_general_updates_replies">Отримувати сповіщення про нові відповіді</string>
   <string name="pref_general_on">Включено</string>
   <string name="pref_general_off">Виключено</string>
 
@@ -236,7 +236,7 @@
   <string name="msg_downloader_notification_description">Сповіщення про завантаження з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
   <string name="msg_comments_notification_description">Сповіщення про коментарі на novel.tl</string>
-  <string name="msg_misc_notification_description">Сервісні оповіщення novel.tl</string>
+  <string name="msg_misc_notification_description">Сервісні сповіщення novel.tl</string>
 
   <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
   <string name="msg_open_in">Відкрити за допомогою:</string>
@@ -289,8 +289,8 @@
 
   <string name="err_projects_exception">Помилка завантаження списку проектів</string>
 
-  <string name="err_general_notifications_exception">Помилка отримання опцій оповіщень</string>
-  <string name="err_general_notifications_save_exception">Не вдалося зберегти налаштування оповіщень</string>
+  <string name="err_general_notifications_exception">Помилка отримання опцій сповіщень</string>
+  <string name="err_general_notifications_save_exception">Не вдалося зберегти налаштування сповіщень</string>
 
   <string name="err_reader_exception">Помилка відкриття тексту для читання</string>
   <string name="err_reader_empty_text">Текст відсутній</string>
