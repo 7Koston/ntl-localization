@@ -169,7 +169,7 @@
     <item>Світла</item>
   </string-array>
   <string-array name="pref_reader_orientation">
-    <item>@string/pref_reader_3_default</item>
+    <item>Горизонтальне перелистування</item>
     <item>Вертикальна прокрутка</item>
   </string-array>
 
