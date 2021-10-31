@@ -155,9 +155,9 @@
   </string-array>
   <string-array name="pref_thumb_size">
     <item>1080px</item>
-    <item>@string/pref_general_2_default</item>
-    <item>@string/pref_reader_1_default</item>
-    <item>@string/pref_general_1_default</item>
+    <item>720px</item>
+    <item>480px</item>
+    <item>240px</item>
   </string-array>
   <string-array name="pref_updates_notifications">
     <item>@string/pref_general_off</item>
@@ -169,46 +169,24 @@
     <item>Темная</item>
     <item>Светлая</item>
   </string-array>
-  <string-array name="pref_themes_values">
-    <item>@string/pref_general_3_default</item>
-    <item>dark</item>
-    <item>light</item>
-  </string-array>
   <string-array name="pref_reader_orientation">
-    <item>@string/pref_reader_3_default</item>
+    <item>Горизонтальное перелистывание</item>
     <item>Вертикальная прокрутка</item>
-  </string-array>
-  <string-array name="pref_reader_fonts">
-    <item>@string/pref_reader_2_default</item>
-    <item>Alegreya</item>
-    <item>Anonymous Pro</item>
-    <item>Cuprum</item>
-    <item>Montserrat Alternates</item>
-    <item>Nunito</item>
-    <item>Open Sans</item>
-    <item>Philosopher</item>
-    <item>Source Code Pro</item>
-    <item>Tinos</item>
-    <item>Ubuntu</item>
-  </string-array>
-  <string-array name="pref_reader_spacing">
-    <item>1</item>
-    <item>1.2</item>
-    <item>@string/pref_reader_4_default</item>
-    <item>1.4</item>
-    <item>1.5</item>
-    <item>1.8</item>
-    <item>2</item>
   </string-array>
 
   <string name="d_more">More</string>
+  <string name="retry">Повторить</string>
 
   <string name="nc_downloads">Downloads</string>
   <string name="nc_updates">Updates</string>
+  <string name="nc_comments">Comments</string>
+  <string name="nc_misc">Miscellaneous</string>
 
   <string name="nc_general_updated">Обновления на Novel.tl</string>
   <string name="nc_general_updated_old">Novel.tl</string>
-  <string name="nc_general_updates_counter">Обновлений:</string>
+  <string name="nc_general_updates_counter">%1$s | Обновлений: %2$s</string>
+  <string name="nc_general_comments_counter">%1s | Новый комментарий: %2$s</string>
+  <string name="nc_general_replies_counter">%1s | Новый ответ: %2s</string>
   <string name="nc_general_updates_counter_old">Новых обновлений: %1$d</string>
 
   <string name="pref_general_category">Общие настройки</string>
@@ -216,24 +194,19 @@
   <string name="pref_general_bigger_size">Качество картинок в увеличенном режиме</string>
   <string name="pref_general_downloads_folder">Папка загрузок</string>
   <string name="pref_general_themes">Тема оформления</string>
-  <string name="pref_general_updates_notifications">Получать оповещения об обновлениях</string>
+  <string name="pref_general_notifications">Настройки оповещений</string>
+  <string name="pref_general_updates_notifications">Получать оповещения об обновлениях в избранном</string>
+  <string name="pref_general_updates_replies">Получать оповещения о новых ответах</string>
   <string name="pref_general_on">Включено</string>
   <string name="pref_general_off">Отключено</string>
-  <string name="pref_general_1_default">240px</string>
-  <string name="pref_general_2_default">720px</string>
-  <string name="pref_general_3_default">system</string>
 
   <string name="pref_reader_category">Настройки встроенной читалки</string>
   <string name="pref_reader_on">Включена</string>
   <string name="pref_reader_off">Отключена</string>
   <string name="pref_reader_1">Качество иллюстраций</string>
-  <string name="pref_reader_1_default">480px</string>
   <string name="pref_reader_2">Шрифт</string>
-  <string name="pref_reader_2_default">Roboto</string>
   <string name="pref_reader_3">Способ чтения</string>
-  <string name="pref_reader_3_default">Горизонтальное перелистывание</string>
   <string name="pref_reader_4">Межстрочный интервал</string>
-  <string name="pref_reader_4_default">1.24</string>
   <string name="pref_reader_6">Смена страниц нажатием у края экрана</string>
   <string name="pref_reader_7">Смена страниц клавишами громкости</string>
   <string name="pref_reader_8">Размер текста</string>
@@ -253,8 +226,7 @@
   <string name="pref_moving_complete">Загруженные файлы успешно перенесены</string>
   <string name="pref_moving_error">Не удалось перенести загруженные файлы</string>
   <string name="pref_move_question">Все загруженные файлы будут перенесены в новое хранилище.</string>
-  <string name="pref_move_question_api30">Все загруженные файлы будут перенесены в новое хранилище.\n\nНачиная с Android 11 стало невозможным делиться файлами приложения сохраненными во <b>внешних хранилищах</b>. Вы все еще сможете загружать файлы, но не сможете открыть их.
-  </string>
+  <string name="pref_move_question_api30">Все загруженные файлы будут перенесены в новое хранилище.\n\nНачиная с Android 11 стало невозможным делиться файлами приложения сохраненными во <b>внешних хранилищах</b>. Вы все еще сможете загружать файлы, но не сможете открыть их.</string>
 
   <string name="copied_to_clipboard">Скопировано:</string>
 
@@ -262,8 +234,10 @@
   <string name="msg_share_project">Поделиться ссылкой на проект:</string>
   <string name="msg_share_comment">Поделиться ссылкой на комментарий:</string>
 
-  <string name="msg_downloader_notification_description">Novel.tl downloads notification</string>
-  <string name="msg_updates_notification_description">Novel.tl updates notification</string>
+  <string name="msg_downloader_notification_description">Novel.tl downloads notifications</string>
+  <string name="msg_updates_notification_description">Novel.tl updates notifications</string>
+  <string name="msg_comments_notification_description">Novel.tl comments notifications</string>
+  <string name="msg_misc_notification_description">Novel.tl miscellaneous notifications</string>
 
   <string name="msg_press_twice_quit">Нажмите дважды для выхода</string>
   <string name="msg_open_in">Open with:</string>
@@ -286,6 +260,7 @@
   <string name="err_no_internet">Подключение к интернет отсутствует</string>
   <string name="err_bad_url">Unable to process URL</string>
 
+  <string name="err_require_login">Необходимо авторизоваться</string>
   <string name="err_ecv_bad_url">URL поврежден или не содержит изображение</string>
   <string name="err_ecv_empty_url">Укажите URL в поле ввода</string>
 
@@ -309,8 +284,10 @@
 
   <string name="err_main_exception">Неизвестная ошибка получения разделов</string>
 
+  <string name="err_general_notifications_exception">Ошибка получения настроек оповещений</string>
+  <string name="err_general_notifications_save_exception">Не удалось сохранить настройки оповещений</string>
+
   <string name="err_project_exception">Неизвестная ошибка</string>
-  <string name="err_project_require_login">Необходимо войти в аккаунт</string>
   <string name="err_project_volumes_exception">Ошибка загрузки списка томов</string>
   <string name="err_project_updates_exception">Ошибка загрузки обновлений</string>
 
@@ -342,6 +319,7 @@
   <string name="err_user_image_not_found">Не удалось найти файл</string>
   <string name="err_user_image_io">Не удалось открыть изображение</string>
   <string name="err_user_image_bad">Изображение превышает ограничения</string>
+  <string name="err_user_cm_token_exception">Не удалось отправить CM токен</string>
 
   <string name="err_comments_empty">Комментариев нет</string>
   <string name="err_comments_exception">Неизвестная ошибка получения комментариев</string>
@@ -349,7 +327,6 @@
   <string name="err_comments_edit_exception">Ошибка редактирования комментария</string>
   <string name="err_comments_delete_exception">Ошибка удаления комментария</string>
   <string name="err_comments_short">Комментарий слишком короткий</string>
-  <string name="err_comments_auth">Необходимо войти в аккаунт</string>
 
   <string name="err_volume_external_exception">Невозможно открыть ссылку на внешний источник</string>
   <string name="err_volume_exception">Ошибка загрузки информации о томе</string>

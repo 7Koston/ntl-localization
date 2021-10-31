@@ -154,9 +154,9 @@
   </string-array>
   <string-array name="pref_thumb_size">
     <item>1080px</item>
-    <item>@string/pref_general_2_default</item>
-    <item>@string/pref_reader_1_default</item>
-    <item>@string/pref_general_1_default</item>
+    <item>720px</item>
+    <item>480px</item>
+    <item>240px</item>
   </string-array>
   <string-array name="pref_updates_notifications">
     <item>@string/pref_general_off</item>
@@ -168,44 +168,24 @@
     <item>Темна</item>
     <item>Світла</item>
   </string-array>
-  <string-array name="pref_themes_values">
-    <item>@string/pref_general_3_default</item>
-    <item>dark</item>
-    <item>light</item>
-  </string-array>
   <string-array name="pref_reader_orientation">
     <item>@string/pref_reader_3_default</item>
     <item>Вертикальна прокрутка</item>
   </string-array>
-  <string-array name="pref_reader_fonts">
-    <item>@string/pref_reader_2_default</item>
-    <item>Alegreya</item>
-    <item>Anonymous Pro</item>
-    <item>Cuprum</item>
-    <item>Montserrat Alternates</item>
-    <item>Nunito</item>
-    <item>Open Sans</item>
-    <item>Philosopher</item>
-    <item>Source Code Pro</item>
-    <item>Tinos</item>
-    <item>Ubuntu</item>
-  </string-array>
-  <string-array name="pref_reader_spacing">
-    <item>1</item>
-    <item>1.2</item>
-    <item>@string/pref_reader_4_default</item>
-    <item>1.4</item>
-    <item>1.5</item>
-    <item>1.8</item>
-    <item>2</item>
-  </string-array>
 
   <string name="d_more">Детальніше</string>
+  <string name="retry">Повторити</string>
+
   <string name="nc_downloads">Завантаження</string>
   <string name="nc_updates">Обновлення</string>
+  <string name="nc_comments">Коментарі</string>
+  <string name="nc_misc">Різне</string>
+
   <string name="nc_general_updated">Обновлення на Novel.tl</string>
   <string name="nc_general_updated_old">Novel.tl</string>
-  <string name="nc_general_updates_counter">Обновлено:</string>
+  <string name="nc_general_updates_counter">%1$s | Обновлення: %2$s</string>
+  <string name="nc_general_comments_counter">%1s | Новий коментар: %2$s</string>
+  <string name="nc_general_replies_counter">%1s | Нова відповідь: %2s</string>
   <string name="nc_general_updates_counter_old">Нові обновлення: %1$d</string>
 
   <string name="pref_general_category">Загальні налаштування</string>
@@ -213,24 +193,19 @@
   <string name="pref_general_bigger_size">Якість картинок у збільшеному режимі</string>
   <string name="pref_general_downloads_folder">Папка завантажень</string>
   <string name="pref_general_themes">Тема оформленняя</string>
-  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення</string>
+  <string name="pref_general_notifications">Налаштування оповіщень</string>
+  <string name="pref_general_updates_notifications">Отримувати сповіщення про обновлення у вибраному</string>
+  <string name="pref_general_updates_replies">Отримувати оповіщення про нові відповіді</string>
   <string name="pref_general_on">Включено</string>
   <string name="pref_general_off">Виключено</string>
-  <string name="pref_general_1_default">240px</string>
-  <string name="pref_general_2_default">720px</string>
-  <string name="pref_general_3_default">system</string>
 
   <string name="pref_reader_category">Налаштування вбудованої читалки</string>
   <string name="pref_reader_on">Включена</string>
   <string name="pref_reader_off">Виключена</string>
   <string name="pref_reader_1">Якість ілюстрацій</string>
-  <string name="pref_reader_1_default">480px</string>
   <string name="pref_reader_2">Шрифт</string>
-  <string name="pref_reader_2_default">Roboto</string>
   <string name="pref_reader_3">Спосіб читання</string>
-  <string name="pref_reader_3_default">Горизонтальне перегортання</string>
   <string name="pref_reader_4">Міжрядковий інтервал</string>
-  <string name="pref_reader_4_default">1.24</string>
   <string name="pref_reader_6">Зміна сторінок натисканням в край екрану</string>
   <string name="pref_reader_7">Зміна сторінок клавішами гучності</string>
   <string name="pref_reader_8">Розмір тексту</string>
@@ -251,6 +226,7 @@
   <string name="pref_moving_error">Не вдалося перенести завантажені файли</string>
   <string name="pref_move_question">Всі завантажені файли будуть перенесені в нове сховище.</string>
   <string name="pref_move_question_api30">Всі завантажені файли будуть перенесені в нове сховище.\n\nПочинаючи з Android 11 стало неможливим ділитися файлами додатку збереженими в <b>зовнішніх сховищах</b>. Ви все ще зможете завантажувати файли, але не зможете їх відкривати.</string>
+
   <string name="copied_to_clipboard">Скопійовано:</string>
 
   <string name="msg_share_volume">Поділитися посиланням на том:</string>
@@ -259,6 +235,8 @@
 
   <string name="msg_downloader_notification_description">Сповіщення про завантаження з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
+  <string name="msg_comments_notification_description">Сповіщення про коментарі на novel.tl</string>
+  <string name="msg_misc_notification_description">Сервісні оповіщення novel.tl</string>
 
   <string name="msg_press_twice_quit">Нажміть двічі для виходу</string>
   <string name="msg_open_in">Відкрити за допомогою:</string>
@@ -281,6 +259,7 @@
   <string name="err_no_internet">Підключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
 
+  <string name="err_require_login">Необхідно авторизуватися</string>
   <string name="err_ecv_bad_url">URL пошкоджено або не містить зображення</string>
   <string name="err_ecv_empty_url">Вкажіть URL в полі введення</string>
 
@@ -305,11 +284,13 @@
   <string name="err_main_exception">Невідома помилка отримання розділів</string>
 
   <string name="err_project_exception">Невідома помилка</string>
-  <string name="err_project_require_login">Необхідно увійти в аккаунт</string>
   <string name="err_project_volumes_exception">Помилка завантаження списку томів</string>
   <string name="err_project_updates_exception">Помилка завантаження обновлення</string>
 
   <string name="err_projects_exception">Помилка завантаження списку проектів</string>
+
+  <string name="err_general_notifications_exception">Помилка отримання опцій оповіщень</string>
+  <string name="err_general_notifications_save_exception">Не вдалося зберегти налаштування оповіщень</string>
 
   <string name="err_reader_exception">Помилка відкриття тексту для читання</string>
   <string name="err_reader_empty_text">Текст відсутній</string>
@@ -337,6 +318,7 @@
   <string name="err_user_image_not_found">Не вдалося знайти файл</string>
   <string name="err_user_image_io">Не вдалося відкрити зображення</string>
   <string name="err_user_image_bad">Зображення перевищує обмеження</string>
+  <string name="err_user_cm_token_exception">Не вдалося відправити CM токен</string>
 
   <string name="err_comments_empty">Коментарі відсутні</string>
   <string name="err_comments_exception">Невідома помилка отримання коментарів</string>
@@ -344,7 +326,6 @@
   <string name="err_comments_edit_exception">Помилка редагування коментаря</string>
   <string name="err_comments_delete_exception">Помилка видалення коментаря</string>
   <string name="err_comments_short">Коментар занадто короткий</string>
-  <string name="err_comments_auth">Необхідно увійти в аккаунт</string>
 
   <string name="err_volume_external_exception">Неможливо відкрити посилання на зовнішнє джерело</string>
   <string name="err_volume_exception">Помилка завантаження інформації про том</string>
