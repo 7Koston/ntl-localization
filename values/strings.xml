@@ -45,7 +45,6 @@
   <string name="vi_comments">КОММЕНТАРИИ</string>
   <string name="vi_annotation">АННОТАЦИЯ</string>
   <string name="vc_hint">Оставьте свой комментарий</string>
-  <string name="vc_answer">[b]%1$s[/b],\u0020</string>
   <string name="vc_delete_warning">Удалить ваш комментарий?</string>
   <string name="vr_delete_warning">Удалить ваш ответ?</string>
   <string name="vr_cant_delete_warning">Невозможно удалить комментарий у которого уже есть ответы</string>
@@ -77,7 +76,6 @@
   <string name="reader_correction_submitted">Спасибо за указание на ошибку</string>
   <string name="reader_correction_submit">ОТПРАВИТЬ</string>
   <string name="reader_correction_hint">Исправление</string>
-  <string name="m_update_sections">Обновить разделы</string>
   <string name="m_search_hint">Поиск</string>
   <string name="m_image_attach_hint">URL изображения</string>
   <string name="m_projects_by_popularity">По популярности</string>
@@ -164,11 +162,6 @@
     <item>720</item>
     <item>480</item>
     <item>240</item>
-  </string-array>
-  <string-array name="pref_updates_notifications">
-    <item>@string/pref_general_off</item>
-    <item>Все обновления</item>
-    <item>Только избранное</item>
   </string-array>
   <string-array name="pref_themes">
     <item>Следовать системе</item>
@@ -299,11 +292,6 @@
   <string name="msg_project_rating_submitted">Спасибо за вашу оценку</string>
 
   <string name="msg_user_image_uploaded">Изображение загружено</string>
-
-  <string name="err_read_storage_permission_denied">Запись во внутреннюю память запрещена</string>
-  <string name="err_write_storage_permission_denied">Чтение внутренней памяти запрещено</string>
-  <string name="err_read_storage_permission_denied_forever">Запись во внутреннюю память запрещена навсегда</string>
-  <string name="err_write_storage_permission_denied_forever">Чтение внутренней памяти запрещено навсегда</string>
 
   <string name="err_require_login">Необходимо авторизоваться</string>
   <string name="err_no_internet">Подключение к интернет отсутствует</string>
