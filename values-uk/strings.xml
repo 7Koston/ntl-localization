@@ -14,10 +14,6 @@
   <string name="home_su_download_completed">Загрузка завершена</string>
   <string name="home_su_google">Для пристроїв із Google Services:</string>
   <string name="home_su_huawei">Для пристроїв із Huawei Services:</string>
-  <string name="home_su_universal">| %1$s | UNIVERSAL</string>
-  <string name="home_su_armabi">| %1$s | AARCH32</string>
-  <string name="home_su_arm64">| %1$s | AARCH64</string>
-  <string name="home_su_x64">| %1$s | X86_64</string>
   <string name="pi_favorite">В улюбленому</string>
   <string name="pi_not_favorite">В улюблене</string>
   <string name="pi_rating">%1$s\u0020/\u0020%2$s</string>
