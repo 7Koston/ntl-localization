@@ -89,6 +89,7 @@
   <string name="usr_about_app">Про додаток</string>
   <string name="usr_recruit">Набір в команду</string>
   <string name="usr_internal_storage">Внутрішнє сховище</string>
+  <string name="usr_internal_storage_download">Завантаження</string>
   <string name="usr_external_storage">Зовнішнє сховище</string>
   <string name="usr_chose_file">ВИБРАТИ ФАЙЛ</string>
   <string name="usr_cancel">ВІДМІНА</string>
@@ -178,12 +179,9 @@
   <string name="nc_comments">Коментарі</string>
   <string name="nc_misc">Різне</string>
 
-  <string name="nc_general_updated">Обновлення на Novel.tl</string>
-  <string name="nc_general_updated_old">Novel.tl</string>
   <string name="nc_general_updates_counter">%1$s | Обновлення: %2$s</string>
   <string name="nc_general_comments_counter">%1$s | Новий коментар: %2$s</string>
   <string name="nc_general_replies_counter">%1$s | Нова відповідь: %2$s</string>
-  <string name="nc_general_updates_counter_old">Нові обновлення: %1$d</string>
 
   <string name="pref_general_category">Загальні налаштування</string>
   <string name="pref_general_thumb_size">Якість ескізів обкладинок томів</string>
@@ -228,7 +226,6 @@
 
   <string name="msg_share_volume">Поділитися посиланням на том:</string>
   <string name="msg_share_project">Поділитися посиланням на проект:</string>
-  <string name="msg_share_comment">Поділитися посиланням на коментар:</string>
 
   <string name="msg_downloader_notification_description">Сповіщення про завантаження з novel.tl</string>
   <string name="msg_updates_notification_description">Сповіщення про обновлення на novel.tl</string>
@@ -305,7 +302,7 @@
   <string name="err_user_authorized">Ви увійшли як</string>
   <string name="err_user_not_authorized">Не авторизовано</string>
   <string name="err_user_exception">Невідома помилка авторизації</string>
-  <string name="err_user_bad_token_exception">Авторизаційний токен закінчився або пошкоджений</string>
+  <string name="err_user_bad_token_exception">Помилка авторизаційного токена: %1$s</string>
   <string name="err_user_image_upload">Помилка завантаження зображення</string>
   <string name="err_user_image_not_found">Не вдалося знайти файл</string>
   <string name="err_user_image_io">Не вдалося відкрити зображення</string>
@@ -324,11 +321,6 @@
 
   <string name="err_volume_requisites_exception">Помилка завантаження реквізитів</string>
   <string name="reader_mi_submit_mistake">Вказати на помилку</string>
-
-  <string name="app_info_1">«Novel.tl» © 2017–2021\nOfficial mobile client</string>
-  <string name="app_info_2">Developer: 7Koston</string>
-  <string name="app_info_3">seven.koston@gmail.com</string>
-  <string name="app_info_4">Third-party libraries were used:</string>
 
 </resources>
 
