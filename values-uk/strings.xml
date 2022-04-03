@@ -248,7 +248,10 @@
   <string name="err_no_internet">Підключення до інтернету відсутнє</string>
   <string name="err_bad_url">Не вдалося обробити URL</string>
 
+  <string name="err_exception">Невідома помилка</string>
+
   <string name="err_require_login">Необхідно авторизуватися</string>
+  <string name="err_no_access">Контент недоступний у вашому регіоні</string>
   <string name="err_ecv_bad_url">URL пошкоджено або не містить зображення</string>
   <string name="err_ecv_empty_url">Вкажіть URL в полі введення</string>
 
@@ -263,6 +266,7 @@
   <string name="err_downloader_exception">| Невідома помилка</string>
   <string name="err_downloader_download_finished">| Завантаження завершено</string>
   <string name="err_downloader_file_deleted">| Файл видалений</string>
+  <string name="err_downloader_already_exist">| Файл уже існує</string>
 
   <string name="err_downloads_illegal_access">Не вдалося відкрити каталог завантажень</string>
   <string name="err_downloads_open_file">Помилка відкриття файлів</string>
@@ -270,9 +274,10 @@
   <string name="err_downloads_file_not_deleted">Помилка видалення файлів</string>
   <string name="err_downloads_no_application">На пристрої немає додатку для відкриття %1$s</string>
 
+  <string name="err_no_rw_permission">Немає дозволів на читання та запис файлів</string>
+
   <string name="err_main_exception">Невідома помилка отримання розділів</string>
 
-  <string name="err_project_exception">Невідома помилка</string>
   <string name="err_project_volumes_exception">Помилка завантаження списку томів</string>
   <string name="err_project_updates_exception">Помилка завантаження обновлення</string>
 

@@ -300,8 +300,11 @@
 
   <string name="msg_user_image_uploaded">Изображение загружено</string>
 
+  <string name="err_exception">Неизвестная ошибка</string>
+
   <string name="err_require_login">Необходимо авторизоваться</string>
   <string name="err_no_internet">Подключение к интернет отсутствует</string>
+  <string name="err_no_access">Контент недоступен в вашем регионе</string>
   <string name="err_bad_url">Не удалось обработать URL</string>
 
   <string name="err_ecv_bad_url">URL поврежден или не содержит изображение</string>
@@ -318,6 +321,9 @@
   <string name="err_downloader_exception">| Неизвестная ошибка</string>
   <string name="err_downloader_download_finished">| Загрузка завершена</string>
   <string name="err_downloader_file_deleted">| файл удален</string>
+  <string name="err_downloader_already_exist">| Файл уже существует</string>
+
+  <string name="err_no_rw_permission">Нет разрешений на чтение и запись файлов</string>
 
   <string name="err_downloads_illegal_access">Не удалось открыть каталог загрузок</string>
   <string name="err_downloads_open_file">Ошибка открытия файлов</string>
@@ -327,7 +333,6 @@
 
   <string name="err_main_exception">Неизвестная ошибка получения разделов</string>
 
-  <string name="err_project_exception">Неизвестная ошибка</string>
   <string name="err_project_volumes_exception">Ошибка загрузки списка томов</string>
   <string name="err_project_updates_exception">Ошибка загрузки обновлений</string>
 
