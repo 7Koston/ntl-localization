@@ -11,7 +11,7 @@
   <string name="home_su_alt"><u>Більше варіантів</u></string>
   <string name="home_su_changelog"><u>Історія оновлень</u></string>
   <string name="home_su_new_version">Доступна нова версія програми!</string>
-  <string name="home_su_download_completed">Завантаження завершено</string>
+  <string name="home_su_download_completed">Завантаження завершено. Вам потрібно встановити APK вручну.</string>
   <string name="home_su_google">Для пристроїв із Google Services:</string>
   <string name="home_su_huawei">Для пристроїв із Huawei Services:</string>
   <string name="pi_favorite">В улюбленому</string>
@@ -118,6 +118,7 @@
     <item>Сторонній переклад</item>
     <item>Немає анлейта</item>
     <item>Заморожено</item>
+    <item>Покинутий</item>
     <item>Сторонній переклад</item>
     <item>Онгоїнг</item>
     <item>Переклад</item>

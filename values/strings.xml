@@ -13,7 +13,7 @@
   <string name="home_su_alt"><u>Больше вариантов</u></string>
   <string name="home_su_changelog"><u>История обновлений</u></string>
   <string name="home_su_new_version">Доступна новая версия приложения!</string>
-  <string name="home_su_download_completed">Загрузка завершена</string>
+  <string name="home_su_download_completed">Загрузка завершена. Вам нужно вручную установить APK.</string>
   <string name="home_su_google">Для устройств с Google Services:</string>
   <string name="home_su_huawei">Для устройств с Huawei Services:</string>
   <string name="home_su_universal" translatable="false">| %1$s | UNIVERSAL</string>
@@ -125,6 +125,7 @@
     <item>Сторонний перевод</item>
     <item>Нет анлейта</item>
     <item>Заморожен</item>
+    <item>Заброшен</item>
     <item>Сторонний перевод</item>
     <item>Онгоинг</item>
     <item>Перевод</item>
@@ -382,7 +383,7 @@
   <string name="err_volume_requisites_exception">Ошибка загрузки реквизитов</string>
   <string name="reader_mi_submit_mistake">Указать на ошибку</string>
 
-  <string name="app_info_1" translatable="false">«Novel.tl» © 2017–2021\nOfficial mobile client v. %1$s</string>
+  <string name="app_info_1" translatable="false">«Novel.tl» © 2017–2022\nOfficial mobile client v. %1$s</string>
   <string name="app_info_2" translatable="false">Developer: 7Koston</string>
   <string name="app_info_3" translatable="false">seven.koston@gmail.com</string>
   <string name="app_info_4" translatable="false">Third-party libraries were used:</string>

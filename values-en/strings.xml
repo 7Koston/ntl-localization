@@ -11,7 +11,7 @@
   <string name="home_su_alt"><u>Больше вариантов</u></string>
   <string name="home_su_changelog"><u>История обновлений</u></string>
   <string name="home_su_new_version">Доступна новая версия приложения!</string>
-  <string name="home_su_download_completed">Загрузка завершена</string>
+  <string name="home_su_download_completed">Загрузка завершена. Вам нужно вручную установить APK!</string>
   <string name="home_su_google">Для устройств с Google Services:</string>
   <string name="home_su_huawei">Для устройств с Huawei Services:</string>
   <string name="pi_favorite">В избранном</string>
@@ -119,6 +119,7 @@
     <item>Сторонний перевод</item>
     <item>Нет анлейта</item>
     <item>Заморожен</item>
+    <item>Заброшен</item>
     <item>Сторонний перевод</item>
     <item>Онгоинг</item>
     <item>Перевод</item>
